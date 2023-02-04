@@ -1,18 +1,19 @@
 ### Hello, I'm a hardware-enthusiastic programmer studying data science 🚀
 
-### Main Rig 🔧
+### Main Rig 🖥️
 - AMD Ryzen 7 5700X
 - 32 GB DDR4
 - AMD RX 6600
 
-### Machine Learning Rig 🔧
+### Machine Learning Rig 🖥️
 - Intel Xeon E5 2650 V2
 - 32 GB DDR3 ECC
 - Nvidia Tesla K20c
 
 ### Laptop 💻
-- Lenovo T480s
+- Lenovo Thinkpad T480s
 - 16 GB DDR4
+
 
 
 <!--
