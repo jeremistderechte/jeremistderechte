@@ -4,15 +4,18 @@
 - AMD Ryzen 7 5700X
 - 32 GB DDR4
 - AMD RX 6600
+- Windows 11 Pro
 
 ### Machine Learning Rig 🖥️
 - Intel Xeon E5 2650 V2
 - 32 GB DDR3 ECC
 - Nvidia Tesla K20c
+- Ubuntu 22.04 LTS
 
 ### Laptop 💻
 - Lenovo Thinkpad T480s
 - 16 GB DDR4
+- Ubuntu 22.04 LTS
 
 
 
