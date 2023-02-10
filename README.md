@@ -3,13 +3,13 @@
 ### Main Rig 🖥️
 - AMD Ryzen 7 5700X
 - 32 GB DDR4
-- Nvidia RTX 3060 12 GB
+- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops)
 - Windows 11 Pro
 
 ### Machine Learning Rig 🖥️
 - Intel Xeon E5 2650 V2
 - 32 GB DDR3 ECC
-- Nvidia Tesla K20c 5 GB
+- Nvidia Tesla K20c 5 GB (4.8 TFlops)
 - Ubuntu 22.04 LTS
 
 ### Laptop 💻
