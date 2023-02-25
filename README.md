@@ -10,12 +10,12 @@
 - Intel Xeon E5 2650 V2 (8x2.6)
 - 32 GB DDR3 ECC
 - Nvidia Tesla K20c 5 GB (4.8 TFlops)
-- Ubuntu 22.04 LTS
+- Xubuntu 22.04 LTS
 
 ### Laptop 💻
 - Lenovo Thinkpad T480s
 - 16 GB DDR4
-- Xubuntu 22.04 LTS
+- Ubuntu 22.04 LTS
 
 
 
