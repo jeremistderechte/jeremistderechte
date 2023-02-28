@@ -10,7 +10,7 @@
 - Intel Xeon E5 2650 V2 (8x2.6)
 - 32 GB DDR3 ECC
 - Nvidia Tesla K20c 5 GB (4.8 TFlops)
-- Xubuntu 22.04 LTS
+- Windows 10 Pro
 
 ### Laptop 💻
 - Lenovo Thinkpad T480s
