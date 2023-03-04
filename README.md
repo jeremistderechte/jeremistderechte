@@ -8,7 +8,7 @@
 
 ### Machine Learning Rig 🖥️
 - Intel Xeon E5 2650 V2 (8x2.6)
-- 32 GB DDR3 ECC
+- 128 GB DDR3 ECC
 - Nvidia Tesla K20c 5 GB (4.8 TFlops)
 - Windows 10 Pro
 
