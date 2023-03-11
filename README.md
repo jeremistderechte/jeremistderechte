@@ -10,7 +10,7 @@
 - Intel Xeon E5-2696 v2 (12x2.5)
 - 128 GB DDR3 ECC
 - Nvidia Tesla K20c 5 GB (4.8 TFlops)
-- Ubuntu 22.04 LTS
+- Proxmox (Ubuntu LTS VM, Windows VM)
 
 ### Laptop 💻
 - Lenovo Thinkpad T480s
