@@ -15,7 +15,7 @@
 ### Laptop 💻
 - Lenovo Thinkpad T480s
 - 16 GB DDR4
-- Ubuntu 22.04 LTS
+- EndeavourOS
 
 
 
