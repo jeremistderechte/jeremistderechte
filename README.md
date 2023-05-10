@@ -17,7 +17,7 @@
 ### Main PC 🖥️
 - AMD Ryzen 7 5700X (8x3.4)
 - 32 GB DDR4
-- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops)
+- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops) --> (Looking for Radeon VII)
 - Windows 11 Pro
 
 ### Laptop 💻
@@ -43,9 +43,9 @@
 - Xiaomi Redmi AC2100
 - MediaTek MT7621 (2x0.8)
 - 128 MB RAM
-- OpenWrt
+- OpenWrt (Custom ROM)
 
-<h2 align="left">Testing Devices</h2>
+<h2 align="left">Test Devices</h2>
 
 ### Linux Gaming / AMD ROCm 🖥️
 - AMD Ryzen 5 3600 (6x3.6)
@@ -64,8 +64,13 @@
 - Windows 7
 - EEPROM Flashing & Car-Diagnostics
 
-### Creality Ender 3 V2
-- 3D Printer
+### 2nd Phone 📱
+- Xiaomi Mi 9T Pro (Redmi K20 Pro)
+- Android 13 (Evolution X)
+- 90 Hz Overclock
+
+### 3D Printer
+- Creality Ender 3 V2
 
 ### Socket experiences / owned
 #### Intel
