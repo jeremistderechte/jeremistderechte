@@ -18,7 +18,7 @@
 - AMD Ryzen 7 5700X (8x3.4)
 - 32 GB DDR4
 - Nvidia GeForce RTX 3060 12 GB (14.5 TFlops) --> (Looking for Radeon VII)
-- Windows 11 Pro
+- EndeavourOS
 
 ### Laptop 💻
 - Lenovo Thinkpad T480s
@@ -56,7 +56,7 @@
 ### 2nd Laptop 💻
 - Lenovo ThinkPad T450s
 - 12 GB DDR3
-- Ubuntu 22.04 LTS 
+- EndeavourOS 
 
 ### 3rd Laptop 💻
 - Lenovo ThinkPad W520
