@@ -17,7 +17,7 @@
 ### Main PC 🖥️
 - AMD Ryzen 7 5700X (8x3.4)
 - 32 GB DDR4
-- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops) --> (Looking for Radeon VII)
+- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32) --> (Looking for Radeon VII)
 - EndeavourOS
 
 ### Laptop 💻
@@ -30,7 +30,7 @@
 ### Machine Learning Rig / Server 🖥️
 - Intel Xeon E5-2696 v2 (12x2.5)
 - 128 GB DDR3 ECC
-- Nvidia Tesla K20c 5 GB Bios Mod @970MHz (4.8 TFlops)
+- Nvidia Tesla K20c 5 GB Bios Mod @970MHz (4.8 TFlops FP32)
 - Proxmox (Ubuntu LTS VM, Windows VM)
 
 ### Router / Firewall :no_entry_sign:
