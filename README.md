@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Jeremy</h1>
 <h3 align="center">Hardware-enthusiastic programmer studying data science 🚀</h3>
+<p align="center">PS: AMD GCN was a legendary architecture</p>
 
 
 
@@ -9,15 +10,14 @@
 
 
 <h1 align="center">My Hardware</h1>
-<p>"Short" summary about my hardware that I own</p>
-<p>PS: AMD GCN was a legendary architecture</p>
+
 
 <h2 align="left">Daily Drivers</h2>
 
 ### Main PC 🖥️
 - AMD Ryzen 7 5700X (8x3.4)
 - 32 GB DDR4
-- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32) --> (Looking for Radeon VII)
+- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
 - EndeavourOS
 
 ### Laptop 💻
