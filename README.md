@@ -18,12 +18,12 @@
 - AMD Ryzen 7 5700X (8x3.4)
 - 32 GB DDR4
 - Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
-- EndeavourOS
+- Arch
 
 ### Laptop 💻
 - Lenovo Thinkpad T480s
 - 16 GB DDR4
-- EndeavourOS
+- EndeavourOS (based on Arch)
 
 <h2 align="left">Home Lab</h2>
 
@@ -37,13 +37,13 @@
 - Fujitsu Futro S920
 - AMD GX-415GA (4x1.5)
 - 4 GB DDR3
-- OPNsense
+- OPNsense (FreeBSD)
 
 ### Access Point :signal_strength:
 - Xiaomi Redmi AC2100
 - MediaTek MT7621 (2x0.8)
 - 128 MB RAM
-- OpenWrt (Custom ROM)
+- OpenWrt (GNU/Linux)
 
 <h2 align="left">Test Devices</h2>
 
@@ -51,12 +51,12 @@
 - AMD Ryzen 5 3600 (6x3.6)
 - 16 GB DDR4
 - AMD RX 590 8 GB / R9 Fury 4 GB (Hopefully ROCm will become usable)
-- EndeavourOS
+- EndeavourOS (based on Arch)
 
 ### 2nd Laptop 💻
 - Lenovo ThinkPad T450s
 - 12 GB DDR3
-- EndeavourOS 
+- EndeavourOS (based on Arch)
 
 ### 3rd Laptop 💻
 - Lenovo ThinkPad W520
@@ -88,8 +88,7 @@
 - AM4 (Legendary Platform)
 
 ### Best Hardware ever built (in my opinion)
-- AMD HD 7970
-- AMD R9 290(X)
+- AMD Radeon HD 7970
+- AMD Radeon R9 290 (X)
+- AMD Radeon VII
 - Intel Core 2 Quad Q6600
-
-
