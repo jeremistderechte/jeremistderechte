@@ -32,7 +32,7 @@
 - 128 GB DDR3 ECC
 - Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
 - Nvidia Tesla K20c 5 GB Bios Mod @970MHz (4.8 TFlops FP32)
-- Ubuntu Server
+- Ubuntu Server (based on debian)
 
 ### Router / Firewall :no_entry_sign:
 - Fujitsu Futro S920
