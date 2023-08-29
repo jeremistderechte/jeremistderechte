@@ -17,7 +17,7 @@
 ### Main PC 🖥️
 - AMD Ryzen 7 5700X (8x3.4)
 - 32 GB DDR4
-- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
+- AMD R9 Fury 4 GB @1140MHz water cooled (8.2 TFlops FP32)
 - Arch
 
 ### Laptop 💻
@@ -30,8 +30,9 @@
 ### Machine Learning Rig / Server 🖥️
 - Intel Xeon E5-2696 v2 (12x2.5)
 - 128 GB DDR3 ECC
+- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
 - Nvidia Tesla K20c 5 GB Bios Mod @970MHz (4.8 TFlops FP32)
-- Proxmox (Ubuntu LTS VM, Windows VM)
+- Ubuntu Server
 
 ### Router / Firewall :no_entry_sign:
 - Fujitsu Futro S920
@@ -50,7 +51,7 @@
 ### Linux Gaming / AMD ROCm 🖥️
 - AMD Ryzen 5 3600 (6x3.6)
 - 16 GB DDR4
-- AMD RX 590 8 GB / R9 Fury 4 GB (Hopefully ROCm will become usable)
+- AMD RX 590 8 GB @1450MHz for efficiency (6.7 TFlops FP32)
 - EndeavourOS (based on Arch)
 
 ### 2nd Laptop 💻
