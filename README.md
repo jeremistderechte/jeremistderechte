@@ -57,7 +57,7 @@
 ### 2nd Laptop 💻
 - Lenovo ThinkPad T450s
 - 12 GB DDR3
-- EndeavourOS (based on Arch)
+- Arch
 
 ### 3rd Laptop 💻
 - Lenovo ThinkPad W520
