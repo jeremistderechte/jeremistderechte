@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Jeremy</h1>
 <h3 align="center">Hardware-enthusiastic programmer studying data science 🚀</h3>
-<p align="center">PS: AMD GCN was a legendary architecture</p>
+<p align="center"><i>Windows-free since early 2023, exploring the open-source universe.</i></p>
+<br>
+<p align="center">AMD GCN was a legendary architecture <3</p>
 
 
 
@@ -17,20 +19,24 @@
 ### Main PC 🖥️
 - AMD Ryzen 7 5700X (8x3.4)
 - 32 GB DDR4
-- AMD R9 Fury 4 GB @1140MHz water cooled (8.2 TFlops FP32)
+- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
 - Arch
 
 ### Laptop 💻
-- Lenovo Thinkpad T480s
+- Lenovo ThinkPad T480s
 - 16 GB DDR4
 - EndeavourOS (based on Arch)
+
+### Phone 📱
+- Apple iPhone 11 Pro Max
+- NPC device, I know, but I do have an Android device with custom recovery and custom ROM. So don't panic :P
 
 <h2 align="left">Home Lab</h2>
 
 ### Machine Learning Rig / Server 🖥️
 - Intel Xeon E5-2696 v2 (12x2.5)
 - 128 GB DDR3 ECC
-- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
+- Nvidia GeForce RTX 3090 24 GB (39 TFlops FP32)
 - Nvidia Tesla K20c 5 GB Bios Mod @970MHz (4.8 TFlops FP32)
 - Ubuntu Server (based on debian)
 
@@ -51,6 +57,7 @@
 ### Linux Gaming / AMD ROCm 🖥️
 - AMD Ryzen 5 3600 (6x3.6)
 - 16 GB DDR4
+- AMD R9 Fury 4 GB @1140MHz water cooled (8.2 TFlops FP32)
 - AMD RX 590 8 GB @1450MHz for efficiency (6.7 TFlops FP32)
 - EndeavourOS (based on Arch)
 
@@ -60,18 +67,21 @@
 - Arch
 
 ### 3rd Laptop 💻
-- Lenovo ThinkPad W520
+- Lenovo ThinkPad T520
 - 8 GB
-- Windows 7
+- Windows 7 
 - EEPROM Flashing & Car-Diagnostics
-
+- (Unfortunately no option to use GNU/Linux here ^^)
+  
 ### 2nd Phone 📱
 - Xiaomi Mi 9T Pro (Redmi K20 Pro)
+- TWRP
 - Android 13 (Evolution X)
 - 90 Hz Overclock
 
 ### 3D Printer
 - Creality Ender 3 V2
+- PLA & TPU
 
 ### Socket experiences / owned
 #### Intel
@@ -90,6 +100,6 @@
 
 ### Best Hardware ever built (in my opinion)
 - AMD Radeon HD 7970
-- AMD Radeon R9 290 (X)
+- AMD Radeon R9 290(X)
 - AMD Radeon VII
 - Intel Core 2 Quad Q6600
