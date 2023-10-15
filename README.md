@@ -19,7 +19,7 @@
 ### Main PC 🖥️
 - AMD Ryzen 7 5700X (8x3.4)
 - 32 GB DDR4
-- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
+- AMD R9 Fury 4 GB w/ bios mod @1140MHz water cooled (8.2 TFlops FP32)
 - Arch
 
 ### Laptop 💻
@@ -29,16 +29,17 @@
 
 ### Phone 📱
 - Apple iPhone 11 Pro Max
-- NPC device, I know, but I do have an Android device with custom recovery and custom ROM. So don't panic :P
+- Apple is shi..
 
 <h2 align="left">Home Lab</h2>
 
-### Machine Learning Rig / Server 🖥️
+### Machine Learning Rig / Server / Remote Gaming 🖥️
 - Intel Xeon E5-2696 v2 (12x2.5)
 - 128 GB DDR3 ECC
-- Nvidia GeForce RTX 3090 24 GB (39 TFlops FP32)
-- Nvidia Tesla K20c 5 GB Bios Mod @970MHz (4.8 TFlops FP32)
-- Ubuntu Server (based on debian)
+- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32
+- Nvidia Tesla K40c 12 GB @875MHz (5 TFlops FP32)
+- Nvidia Tesla K20c 5 GB bios mod @970MHz (4.8 TFlops FP32)
+- Proxmox
 
 ### Router / Firewall :no_entry_sign:
 - Fujitsu Futro S920
@@ -54,10 +55,9 @@
 
 <h2 align="left">Test Devices</h2>
 
-### Linux Gaming / AMD ROCm 🖥️
+### 2nd PC / AMD ROCm 🖥️
 - AMD Ryzen 5 3600 (6x3.6)
 - 16 GB DDR4
-- AMD R9 Fury 4 GB @1140MHz water cooled (8.2 TFlops FP32)
 - AMD RX 590 8 GB @1450MHz for efficiency (6.7 TFlops FP32)
 - EndeavourOS (based on Arch)
 
@@ -103,3 +103,21 @@
 - AMD Radeon R9 290(X)
 - AMD Radeon VII
 - Intel Core 2 Quad Q6600
+
+### For people that really scrolled to this point <3
+
+#### My old Kepler collection
+![IMG_3435|320x271](https://github.com/jeremistderechte/jeremistderechte/assets/116145963/5d90b45c-c17a-461b-afc7-98b51127d581)
+Flashing custom bios on the Tesla K20c to activate graphics APIs (video following soon)
+<br>
+
+![image](https://github.com/jeremistderechte/jeremistderechte/assets/116145963/23388cea-c7fb-423a-9d46-ca398dd76fb0)<br>
+GK110 - Tesla K20c
+
+![image](https://github.com/jeremistderechte/jeremistderechte/assets/116145963/bef128a0-0434-4ceb-a4b6-921107abc26c)<br>
+GK110 (GK180) - Tesla K40c
+
+![C4DD2E6D-4999-4C83-A21C-ECE641C7036F](https://github.com/jeremistderechte/jeremistderechte/assets/116145963/9e357ee3-e068-413c-aa78-d205ea54963f)
+Remote Gaming on Tesla K20c with now activated graphics APIs
+
+
