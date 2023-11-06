@@ -108,7 +108,7 @@
 
 #### My old Kepler collection
 ![IMG_3435|320x271](https://github.com/jeremistderechte/jeremistderechte/assets/116145963/5d90b45c-c17a-461b-afc7-98b51127d581)
-Flashing custom bios on the Tesla K20c to activate graphics APIs (video following soon)
+Flashing custom bios on the Tesla K20c to activate graphics APIs (https://youtu.be/Yx7tkJtUpDI?si=lIR_cu1gvEyhPBm8)
 <br>
 
 ![image](https://github.com/jeremistderechte/jeremistderechte/assets/116145963/23388cea-c7fb-423a-9d46-ca398dd76fb0)<br>
