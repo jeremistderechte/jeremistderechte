@@ -37,7 +37,7 @@
 ### Machine Learning Rig / Server / Remote Gaming 🖥️
 - Intel Xeon E5-2696 v2 (12x2.5)
 - 128 GB DDR3 ECC
-- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32
+- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
 - Nvidia Tesla K40c 12 GB @875MHz (5 TFlops FP32)
 - Nvidia Tesla K20c 5 GB bios mod @970MHz (4.8 TFlops FP32)
 - Proxmox
