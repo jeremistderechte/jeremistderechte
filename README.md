@@ -16,29 +16,28 @@
 
 <h2 align="left">Daily Drivers</h2>
 
-### Main PC 🖥️
-- AMD Ryzen 7 5700X (8x3.4)
-- 32 GB DDR4
-- AMD R9 Fury 4 GB w/ bios mod @1140MHz water cooled (8.2 TFlops FP32)
-- Arch
-
 ### Laptop 💻
 - Lenovo ThinkPad T480s
 - 40 GB DDR4
-- EndeavourOS (based on Arch)
+- Arch
 
 ### Phone 📱
 - Apple iPhone 11 Pro Max
 
 <h2 align="left">Home Lab</h2>
 
+### Main Compute Rig 🖥️
+- AMD Ryzen 7 5700X (8x3.4)
+- 32 GB DDR4
+- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
+- Ubuntu Server LTS
+
 ### Machine Learning Rig / Server / Remote Gaming 🖥️
 - Intel Xeon E5-2696 v2 (12x2.5)
 - 128 GB DDR3 ECC
-- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
-- Nvidia Tesla K40c 12 GB @875MHz (5 TFlops FP32)
+- Nvidia Tesla K40c 12 GB @1034MHz (5.9 TFlops FP32)
 - Nvidia Tesla K20c 5 GB bios mod @970MHz (4.8 TFlops FP32)
-- Proxmox
+- Proxmox (based on debian)
 
 ### Router / Firewall :no_entry_sign:
 - Fujitsu Futro S920
@@ -52,30 +51,31 @@
 - 128 MB RAM
 - OpenWrt (GNU/Linux)
 
-<h2 align="left">Test Devices</h2>
+<h2 align="left">Extra</h2>
 
-### 2nd PC / AMD ROCm 🖥️
+### Emulation PC 🖥️
 - AMD Ryzen 5 3600 (6x3.6)
 - 16 GB DDR4
-- AMD RX 590 8 GB @1450MHz for efficiency (6.7 TFlops FP32)
-- EndeavourOS (based on Arch)
+- AMD RX 590 8 GB @1450MHz for efficiency (6.7 TFlops FP32) 
+- Batocera
 
 ### 2nd Laptop 💻
 - Lenovo ThinkPad T450s
 - 12 GB DDR3
-- Arch
+- Windows 10
+- EEPROM Flashing & Car-Diagnostics
+- (Unfortunately no option to use GNU/Linux here ^^)
 
 ### 3rd Laptop 💻
 - Lenovo ThinkPad T520
 - 8 GB
-- Windows 7 
-- EEPROM Flashing & Car-Diagnostics
-- (Unfortunately no option to use GNU/Linux here ^^)
+- BIOS Mod --> Removal of Wifi-Card-Whitelist (Intel AC7260)
+- Arch
   
-### 2nd Phone 📱
+### Dev Phone 📱
 - Xiaomi Mi 9T Pro (Redmi K20 Pro)
 - TWRP
-- Android 13 (Evolution X)
+- Android 14 (Evolution X)
 - 90 Hz Overclock
 
 ### 3D Printer
