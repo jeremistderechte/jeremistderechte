@@ -29,14 +29,14 @@
 ### Main Compute Rig 🖥️
 - AMD Ryzen 7 5700X (8x3.4)
 - 32 GB DDR4
-- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
+- Nvidia GeForce RTX 3090 24 GB Founders Edition (36 TFlops FP32)
 - Ubuntu Server LTS
 
 ### Machine Learning Rig / Server / Remote Gaming 🖥️
 - Intel Xeon E5-2696 v2 (12x2.5)
 - 128 GB DDR3 ECC
-- Nvidia Tesla K40c 12 GB @1034MHz (5.9 TFlops FP32)
-- Nvidia Tesla K20c 5 GB bios mod @970MHz (4.8 TFlops FP32)
+- Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
+- Nvidia Tesla K40c 12 GB @1034MHz (5.9 TFlops FP32) / Nvidia Tesla K20c 5 GB bios mod @970MHz (4.8 TFlops FP32)
 - Proxmox (based on debian)
 
 ### Router / Firewall :no_entry_sign:
