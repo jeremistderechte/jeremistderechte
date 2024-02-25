@@ -29,7 +29,7 @@
 ### Main Compute Rig 🖥️
 - AMD Ryzen 7 5700X (8x3.4)
 - 32 GB DDR4
-- Nvidia GeForce RTX 3090 24 GB Founders Edition (36 TFlops FP32)
+- Nvidia GeForce RTX 3090 24 GB Founders Edition w/ Gelid Thermal Pads (36 TFlops FP32) 
 - Ubuntu Server LTS
 
 ### Machine Learning Rig / Server / Remote Gaming 🖥️
