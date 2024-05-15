@@ -78,7 +78,7 @@
 - Arch
 
 ### Phone 📱
-- Apple iPhone 11 Pro Max
+- Nothing Phone (2a)
 
 <h2 align="left">Home Lab</h2>
 
