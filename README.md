@@ -77,6 +77,12 @@
 - 40 GB DDR4
 - Arch
 
+### Mobile Workstation 💻
+- HP ZBook 15 G6
+- Nvidia Quadro RTX 3000 6GB
+- 32 GB DDR4
+- Arch
+
 ### Phone 📱
 - Nothing Phone (2a)
 
