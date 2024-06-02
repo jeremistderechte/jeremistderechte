@@ -56,6 +56,12 @@
     <td>360 GB/s</td>
   </tr>
   <tr>
+    <td>Nvidia Tesla P100 16GB</td>
+    <td>Pascal</td>
+    <td>HBM2</td>
+    <td>732.2 GB/s</td>
+  </tr>
+  <tr>
     <td>Nvidia Tesla K40c 12GB</td>
     <td>Kepler</td>
     <td>GDDR5</td>
@@ -84,7 +90,7 @@
 - Arch
 
 ### Phone 📱
-- Nothing Phone (2a)
+- Poco F6
 
 <h2 align="left">Home Lab</h2>
 
