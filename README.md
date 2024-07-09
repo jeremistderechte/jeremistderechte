@@ -80,13 +80,25 @@
 
 ### Laptop 💻
 - Lenovo ThinkPad T480s
+- i5-8350U (4x3.6)
 - 40 GB DDR4
+- Intel AX210 Wifi 6E
 - Arch
 
 ### Mobile Workstation 💻
-- HP ZBook 15 G6
-- Nvidia Quadro RTX 3000 6GB
+- Lenovo ThinkPad P53
+- i7-9850H (6x4.6)
+- Nvidia Quadro RTX 3000 6GB Mobile
 - 32 GB DDR4
+- Intel AX200 Wifi 6
+- Arch
+
+### For the best keyboard experience 💻
+- Lenovo ThinkPad T520
+- i7-2760QM (4x3.5)
+- Nvidia Quadro NVS4200M
+- 16 GB DDR4
+- Intel AX210 Wifi 6E Mini PCIe ---> BIOS-Mod for Wifi whitelist removal
 - Arch
 
 ### Phone 📱
@@ -133,12 +145,6 @@
 - Windows 10
 - EEPROM Flashing & Car-Diagnostics
 - (Unfortunately no option to use GNU/Linux here ^^)
-
-### 3rd Laptop 💻
-- Lenovo ThinkPad T520
-- 8 GB
-- BIOS Mod --> Removal of Wifi-Card-Whitelist (Intel AC7260)
-- Arch
   
 ### Dev Phone 📱
 - Xiaomi Mi 9T Pro (Redmi K20 Pro)
