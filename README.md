@@ -97,7 +97,7 @@
 - Lenovo ThinkPad T520
 - i7-2760QM (4x3.5)
 - Nvidia Quadro NVS4200M
-- 16 GB DDR4
+- 16 GB DDR3
 - Intel AX210 Wifi 6E Mini PCIe ---> BIOS-Mod for Wifi whitelist removal
 - Arch
 
