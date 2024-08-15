@@ -119,6 +119,12 @@
 - Nvidia Tesla K40c 12 GB @1034MHz (5.9 TFlops FP32) / Nvidia Tesla K20c 5 GB bios mod @970MHz (4.8 TFlops FP32)
 - Proxmox (based on debian)
 
+### NAS / Jellyfin 🖥️
+- i5 7500 (4x3.4)
+- 8 GB DDR4
+- 2x18TB RAID1
+- TrueNAS Scale
+
 ### Router / Firewall :no_entry_sign:
 - Fujitsu Futro S920
 - AMD GX-415GA (4x1.5)
