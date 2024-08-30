@@ -122,7 +122,7 @@
 ### NAS / Jellyfin 🖥️
 - i5 7500 (4x3.4)
 - 8 GB DDR4
-- 2x18TB RAID1
+- 2x16TB RAID1
 - TrueNAS Scale
 
 ### Router / Firewall :no_entry_sign:
@@ -139,11 +139,11 @@
 
 <h2 align="left">Extra</h2>
 
-### Emulation PC 🖥️
+### "Gaming" PC 🖥️
 - AMD Ryzen 5 3600 (6x3.6)
 - 16 GB DDR4
-- AMD RX 590 8 GB @1450MHz for efficiency (6.7 TFlops FP32) 
-- Batocera
+- AMD Radeon PRO VII 16GB (13.1 TFlops FP32) 
+- Arch (yes, Proton is good)
 
 ### 2nd Laptop 💻
 - Lenovo ThinkPad T450s
