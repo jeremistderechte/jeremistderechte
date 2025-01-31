@@ -83,7 +83,7 @@
 - i5-8350U (4x3.6)
 - 40 GB DDR4
 - Intel AX210 Wifi 6E
-- Arch
+- Arch - KDE Plasma
 
 ### Mobile Workstation 💻
 - Lenovo ThinkPad P53
@@ -91,7 +91,7 @@
 - Nvidia Quadro RTX 3000 6GB Mobile
 - 32 GB DDR4
 - Intel AX200 Wifi 6
-- Arch
+- Arch - KDE Plasma
 
 ### For the best keyboard experience 💻
 - Lenovo ThinkPad T520
@@ -99,7 +99,7 @@
 - Nvidia Quadro NVS4200M
 - 16 GB DDR3
 - Intel AX210 Wifi 6E Mini PCIe ---> BIOS-Mod for Wifi whitelist removal
-- Arch
+- Arch - i3
 
 ### Phone 📱
 - Poco F6
