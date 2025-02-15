@@ -13,8 +13,8 @@
 
 <h3 align="left">Github Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremistderechte" alt="GitHub Stats" height="260px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremistderechte" alt="Top Languages" height="260px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremistderechte" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremistderechte" alt="Top Languages" height="180px"/>
 </p>
 
 
