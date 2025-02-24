@@ -31,7 +31,7 @@
     <th>Memory Bandwith</th>
   </tr>
   <tr>
-    <td>AMD R9 Fury 4GB</td>
+    <td>2x AMD R9 Fury 4GB</td>
     <td>GCN 3.0</td>
     <td>HBM</td>
     <td>512 GB/s</td>
@@ -94,7 +94,7 @@
 - Lenovo ThinkPad P53
 - i7-9850H (6x4.6)
 - Nvidia Quadro RTX 3000 6GB Mobile
-- 32 GB DDR4
+- 64 GB DDR4
 - Intel AX200 Wifi 6
 - Arch - KDE Plasma
 
