@@ -108,6 +108,7 @@
 
 ### Phone 📱
 - Poco F6
+- CMF Phone 1 (running /e/OS)
 
 <h2 align="left">Home Lab</h2>
 
