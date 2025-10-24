@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Jeremy</h1>
 
-<h3 align="center">Hardware-enthusiastic programmer studying data science 🚀</h3>
+<h3 align="center">Hardware-enthusiastic programmer 🚀</h3>
 <p align="center">
   <img src="https://github.com/jeremistderechte/jeremistderechte/assets/116145963/0d11381b-6f48-4e37-bf80-eaef8e8fc83e" alt="Banner">
 </p>
