@@ -124,10 +124,16 @@
 - Nvidia GeForce RTX 3060 12 GB (14.5 TFlops FP32)
 - Nvidia Tesla K40c 12 GB @1034MHz (5.9 TFlops FP32) / Nvidia Tesla K20c 5 GB bios mod @970MHz (4.8 TFlops FP32)
 - Proxmox (based on debian)
+  
+### 24/7 Thinclient 🖥️
+- HP T740
+- AMD Ryzen Embedded V1756B (4x3.25)
+- 32 GB DDR4
+- Proxmox (based on debian)
 
 ### NAS / Jellyfin 🖥️
 - i5 7500 (4x3.4)
-- 8 GB DDR4
+- 16 GB DDR4
 - 2x16TB RAID1
 - TrueNAS Scale
 
