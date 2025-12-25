@@ -31,6 +31,12 @@
     <th>Memory Bandwith</th>
   </tr>
   <tr>
+    <td>AMD FirePro S10000 6GB</td>
+    <td>GCN 1.0</td>
+    <td>GDDR5</td>
+    <td>240 GB/s</td>
+  </tr>
+  <tr>
     <td>2x AMD R9 Fury 4GB</td>
     <td>GCN 3.0</td>
     <td>HBM</td>
